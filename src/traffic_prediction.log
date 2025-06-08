@@ -1,0 +1,1343 @@
+2024-11-22 04:40:17,369 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-22 04:40:17,426 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-22 04:40:54,850 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-22 04:40:54,908 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-22 05:03:09,119 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-22 05:03:09,203 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-22 05:03:53,198 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-22 05:03:53,252 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-22 05:04:56,498 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-22 05:04:56,555 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-22 05:06:00,725 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-22 05:06:00,784 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-22 05:07:16,462 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-22 05:07:16,520 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-22 05:07:50,229 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-22 05:07:50,288 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-22 05:08:30,428 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-22 05:08:30,485 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-22 05:08:41,545 - ERROR - KeyboardInterrupt while sending command.
+Traceback (most recent call last):
+  File "/home/avanish/anaconda3/envs/traffic_pred/lib/python3.10/site-packages/py4j/java_gateway.py", line 1038, in send_command
+    response = connection.send_command(command)
+  File "/home/avanish/anaconda3/envs/traffic_pred/lib/python3.10/site-packages/py4j/java_gateway.py", line 1217, in send_command
+    answer = smart_decode(self.stream.readline()[:-1])
+  File "/home/avanish/anaconda3/envs/traffic_pred/lib/python3.10/socket.py", line 717, in readinto
+    return self._sock.recv_into(b)
+KeyboardInterrupt
+2024-11-22 05:09:06,798 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-22 05:09:06,853 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-22 05:09:17,484 - ERROR - KeyboardInterrupt while sending command.
+Traceback (most recent call last):
+  File "/home/avanish/anaconda3/envs/traffic_pred/lib/python3.10/site-packages/py4j/java_gateway.py", line 1038, in send_command
+    response = connection.send_command(command)
+  File "/home/avanish/anaconda3/envs/traffic_pred/lib/python3.10/site-packages/py4j/java_gateway.py", line 1217, in send_command
+    answer = smart_decode(self.stream.readline()[:-1])
+  File "/home/avanish/anaconda3/envs/traffic_pred/lib/python3.10/socket.py", line 717, in readinto
+    return self._sock.recv_into(b)
+KeyboardInterrupt
+2024-11-22 05:09:29,961 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-22 05:09:30,015 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-22 05:17:11,130 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-22 05:17:11,205 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-22 05:20:04,012 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-22 05:20:04,086 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-22 05:21:40,017 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-22 05:21:40,073 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-22 05:24:38,718 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-22 05:24:38,778 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-22 05:25:26,117 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-22 05:25:26,172 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-22 05:28:53,142 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-22 05:28:53,198 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-22 05:30:05,906 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-22 05:30:05,965 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-22 05:32:09,204 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-22 05:32:09,263 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-22 05:44:18,177 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-22 05:44:18,233 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-22 05:45:13,400 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-22 05:45:13,455 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-24 22:38:13,597 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-24 22:38:13,697 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-24 22:41:15,524 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-24 22:41:15,603 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-27 03:32:01,878 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-27 03:32:01,971 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-27 03:37:53,609 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-27 03:37:53,664 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-27 03:56:44,685 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-27 03:56:44,746 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-27 04:02:38,938 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-27 04:02:38,997 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-27 04:03:49,427 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-27 04:03:49,506 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-27 04:14:12,561 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-27 04:14:12,627 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-27 04:16:44,199 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-27 04:16:44,282 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-27 04:18:42,960 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-27 04:18:43,020 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-27 04:19:25,640 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-27 04:19:25,698 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-27 04:25:00,851 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-27 04:25:00,911 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-27 04:27:30,187 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-27 04:27:30,261 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-27 04:27:33,139 - ERROR - KeyboardInterrupt while sending command.
+Traceback (most recent call last):
+  File "/home/avanish/anaconda3/envs/traffic_pred/lib/python3.10/site-packages/py4j/java_gateway.py", line 1038, in send_command
+    response = connection.send_command(command)
+  File "/home/avanish/anaconda3/envs/traffic_pred/lib/python3.10/site-packages/py4j/java_gateway.py", line 1217, in send_command
+    answer = smart_decode(self.stream.readline()[:-1])
+  File "/home/avanish/anaconda3/envs/traffic_pred/lib/python3.10/socket.py", line 717, in readinto
+    return self._sock.recv_into(b)
+KeyboardInterrupt
+2024-11-27 04:27:44,858 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-27 04:27:44,916 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-27 04:29:33,522 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-27 04:29:33,588 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-27 04:49:11,536 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-27 04:49:11,604 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-27 04:51:31,772 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-27 04:51:31,837 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-27 04:52:51,551 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-27 04:52:51,633 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-27 04:53:29,497 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-27 04:53:29,555 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-27 04:56:41,392 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-27 04:56:41,450 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-27 04:57:43,505 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-27 04:57:43,562 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-27 05:10:14,422 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-27 05:10:14,486 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-27 05:32:34,629 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-27 05:32:34,687 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-27 06:08:40,294 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-27 06:08:40,356 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-27 06:08:40,530 - ERROR - Error in execution: 'super' object has no attribute '_init_'
+Traceback (most recent call last):
+  File "/home/avanish/traffic_predictor/src/traffic_predictor.py", line 183, in main
+    prediction_stream = ds.process(TrafficPredictorProcessFunction())
+  File "/home/avanish/traffic_predictor/src/traffic_predictor.py", line 99, in __init__
+    super()._init_()
+AttributeError: 'super' object has no attribute '_init_'
+2024-11-27 06:08:58,446 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-27 06:08:58,504 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-27 06:09:44,325 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-27 06:09:44,387 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-27 06:11:09,963 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-27 06:11:10,048 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-27 06:11:59,172 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-27 06:11:59,232 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-27 06:12:13,081 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-27 06:12:13,141 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-27 06:13:25,542 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-27 06:13:25,603 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-27 06:22:16,176 - INFO - Starting Traffic Prediction Application
+2024-11-27 06:22:16,176 - INFO - Found Kafka connector at: /home/avanish/traffic_predictor/lib/flink-sql-connector-kafka-1.17.2.jar
+2024-11-27 06:22:17,285 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-27 06:22:17,345 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-27 06:22:17,427 - ERROR - Error in main execution: type object 'FlinkKafkaProducer' has no attribute 'Semantic'
+Traceback (most recent call last):
+  File "/home/avanish/traffic_predictor/src/traffic_predictor.py", line 196, in main
+    semantic=FlinkKafkaProducer.Semantic.AT_LEAST_ONCE
+AttributeError: type object 'FlinkKafkaProducer' has no attribute 'Semantic'
+2024-11-27 06:22:17,427 - ERROR - Application failed: type object 'FlinkKafkaProducer' has no attribute 'Semantic'
+2024-11-27 06:24:10,388 - INFO - Starting Traffic Prediction Application
+2024-11-27 06:24:10,389 - INFO - Found Kafka connector at: /home/avanish/traffic_predictor/lib/flink-sql-connector-kafka-1.17.2.jar
+2024-11-27 06:24:11,408 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-27 06:24:11,470 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-27 06:24:11,555 - ERROR - Error in main execution: type object 'FlinkKafkaProducer' has no attribute 'Semantic'
+Traceback (most recent call last):
+  File "/home/avanish/traffic_predictor/src/traffic_predictor.py", line 196, in main
+    semantic=FlinkKafkaProducer.Semantic.AT_LEAST_ONCE
+AttributeError: type object 'FlinkKafkaProducer' has no attribute 'Semantic'
+2024-11-27 06:24:11,556 - ERROR - Application failed: type object 'FlinkKafkaProducer' has no attribute 'Semantic'
+2024-11-27 06:25:19,870 - INFO - Starting Traffic Prediction Application
+2024-11-27 06:25:19,871 - INFO - Found Kafka connector at: /home/avanish/traffic_predictor/lib/flink-sql-connector-kafka-1.17.2.jar
+2024-11-27 06:25:20,884 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-27 06:25:20,941 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-27 06:34:35,801 - INFO - Starting Traffic Prediction Application
+2024-11-27 06:34:35,801 - INFO - Found Kafka connector at: /home/avanish/traffic_predictor/lib/flink-sql-connector-kafka-1.17.2.jar
+2024-11-27 06:34:36,804 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-27 06:34:36,861 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-27 06:39:30,798 - INFO - Starting Traffic Prediction Application
+2024-11-27 06:39:30,799 - INFO - Found Kafka connector at: /home/avanish/traffic_predictor/lib/flink-sql-connector-kafka-1.17.2.jar
+2024-11-27 06:39:31,916 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-27 06:39:31,973 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-27 06:41:03,950 - INFO - Starting Traffic Prediction Application
+2024-11-27 06:41:03,951 - INFO - Found Kafka connector at: /home/avanish/traffic_predictor/lib/flink-sql-connector-kafka-1.17.2.jar
+2024-11-27 06:41:05,059 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-27 06:41:05,121 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-27 06:42:34,989 - INFO - Starting Traffic Prediction Application
+2024-11-27 06:42:34,990 - INFO - Found Kafka connector at: /home/avanish/traffic_predictor/lib/flink-sql-connector-kafka-1.17.2.jar
+2024-11-27 06:42:36,004 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-27 06:42:36,064 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-27 06:45:31,239 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-27 06:45:31,294 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-27 06:49:04,392 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-27 06:49:04,452 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-27 06:50:53,956 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-27 06:50:54,043 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-27 06:53:13,941 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-27 06:53:13,999 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-27 06:54:42,057 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-27 06:54:42,116 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-27 06:55:17,345 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-27 06:55:17,403 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-27 06:59:19,831 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-27 06:59:19,889 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-27 07:00:02,666 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-27 07:00:02,727 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-27 07:01:50,712 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-27 07:01:50,771 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-27 07:06:45,184 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-27 07:06:45,244 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-27 07:10:34,827 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-27 07:10:34,884 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-27 07:12:29,966 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-27 07:12:30,025 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-27 07:13:33,699 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-27 07:13:33,758 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-27 07:15:54,667 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-27 07:15:54,728 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-27 07:19:20,559 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-27 07:19:20,615 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-28 22:40:55,878 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-28 22:40:55,978 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-28 22:44:14,084 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-28 22:44:14,168 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-28 22:59:56,126 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-28 22:59:56,212 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-28 23:00:11,082 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-28 23:00:11,140 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-28 23:02:48,315 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-28 23:02:48,375 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-28 23:08:16,268 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-28 23:08:16,352 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-28 23:15:08,856 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-28 23:15:08,959 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-28 23:26:28,351 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-28 23:26:28,408 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-28 23:27:36,780 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-28 23:27:36,836 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-28 23:28:13,905 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-28 23:28:13,964 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-28 23:29:13,196 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-28 23:29:13,256 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-28 23:30:27,667 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-28 23:30:27,727 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-28 23:31:15,146 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-28 23:31:15,204 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-28 23:32:00,398 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-28 23:32:00,459 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-28 23:32:49,665 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-28 23:32:49,725 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-28 23:33:38,673 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-28 23:33:38,732 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-28 23:34:27,678 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-28 23:34:27,737 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-28 23:36:26,658 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-28 23:36:26,738 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-28 23:37:01,266 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-28 23:37:01,324 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-28 23:38:25,983 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-28 23:38:26,040 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-28 23:47:01,101 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-28 23:47:01,158 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-28 23:48:37,384 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-28 23:48:37,443 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-28 23:56:46,817 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-28 23:56:46,876 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-28 23:57:47,183 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-28 23:57:47,245 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-28 23:59:30,117 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-28 23:59:30,175 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 00:21:00,518 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 00:21:00,578 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 00:38:01,717 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 00:38:01,777 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 00:39:52,032 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 00:39:52,091 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 00:40:40,718 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 00:40:40,775 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 01:01:21,064 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 01:01:21,124 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 01:40:38,997 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 01:40:39,054 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 02:45:34,008 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 02:45:34,066 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 03:02:58,695 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 03:02:58,753 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 03:06:16,609 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 03:06:16,672 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 03:08:24,510 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 03:08:24,565 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 03:09:33,700 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 03:09:33,757 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 03:12:06,352 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 03:12:06,408 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 03:13:59,200 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 03:13:59,259 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 03:13:59,435 - ERROR - Error in execution: local variable 'processed_stream' referenced before assignment
+Traceback (most recent call last):
+  File "/home/avanish/traffic_predictor/src/traffic_predictor.py", line 239, in main
+    processed_stream = processed_stream.map(log_data)
+UnboundLocalError: local variable 'processed_stream' referenced before assignment
+2024-11-29 03:14:20,157 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 03:14:20,215 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 03:14:20,392 - ERROR - Error in execution: name 'processed_stream' is not defined
+Traceback (most recent call last):
+  File "/home/avanish/traffic_predictor/src/traffic_predictor.py", line 239, in main
+    new_stream = processed_stream.map(log_data)
+NameError: name 'processed_stream' is not defined
+2024-11-29 03:14:37,500 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 03:14:37,558 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 03:15:50,370 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 03:15:50,437 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 03:17:06,329 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 03:17:06,391 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 03:18:40,508 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 03:18:40,564 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 03:21:57,900 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 03:21:57,961 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 03:22:00,289 - ERROR - Error in execution: An error occurred while calling o16.execute.
+: org.apache.flink.runtime.client.JobExecutionException: Job execution failed.
+	at org.apache.flink.runtime.jobmaster.JobResult.toJobExecutionResult(JobResult.java:144)
+	at org.apache.flink.runtime.minicluster.MiniClusterJobClient.lambda$getJobExecutionResult$3(MiniClusterJobClient.java:141)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2179)
+	at org.apache.flink.runtime.rpc.pekko.PekkoInvocationHandler.lambda$invokeRpc$1(PekkoInvocationHandler.java:268)
+	at java.base/java.util.concurrent.CompletableFuture.uniWhenComplete(CompletableFuture.java:863)
+	at java.base/java.util.concurrent.CompletableFuture$UniWhenComplete.tryFire(CompletableFuture.java:841)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2179)
+	at org.apache.flink.util.concurrent.FutureUtils.doForward(FutureUtils.java:1267)
+	at org.apache.flink.runtime.concurrent.ClassLoadingUtils.lambda$null$1(ClassLoadingUtils.java:93)
+	at org.apache.flink.runtime.concurrent.ClassLoadingUtils.runWithContextClassLoader(ClassLoadingUtils.java:68)
+	at org.apache.flink.runtime.concurrent.ClassLoadingUtils.lambda$guardCompletionWithContextClassLoader$2(ClassLoadingUtils.java:92)
+	at java.base/java.util.concurrent.CompletableFuture.uniWhenComplete(CompletableFuture.java:863)
+	at java.base/java.util.concurrent.CompletableFuture$UniWhenComplete.tryFire(CompletableFuture.java:841)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2179)
+	at org.apache.flink.runtime.concurrent.pekko.ScalaFutureUtils$1.onComplete(ScalaFutureUtils.java:47)
+	at org.apache.pekko.dispatch.OnComplete.internal(Future.scala:310)
+	at org.apache.pekko.dispatch.OnComplete.internal(Future.scala:307)
+	at org.apache.pekko.dispatch.japi$CallbackBridge.apply(Future.scala:234)
+	at org.apache.pekko.dispatch.japi$CallbackBridge.apply(Future.scala:231)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at org.apache.flink.runtime.concurrent.pekko.ScalaFutureUtils$DirectExecutionContext.execute(ScalaFutureUtils.java:65)
+	at scala.concurrent.impl.CallbackRunnable.executeWithValue(Promise.scala:72)
+	at scala.concurrent.impl.Promise$DefaultPromise.$anonfun$tryComplete$1(Promise.scala:288)
+	at scala.concurrent.impl.Promise$DefaultPromise.$anonfun$tryComplete$1$adapted(Promise.scala:288)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete(Promise.scala:288)
+	at org.apache.pekko.pattern.PromiseActorRef.$bang(AskSupport.scala:629)
+	at org.apache.pekko.pattern.PipeToSupport$PipeableFuture$$anonfun$pipeTo$1.applyOrElse(PipeToSupport.scala:34)
+	at org.apache.pekko.pattern.PipeToSupport$PipeableFuture$$anonfun$pipeTo$1.applyOrElse(PipeToSupport.scala:33)
+	at scala.concurrent.Future.$anonfun$andThen$1(Future.scala:536)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at org.apache.pekko.dispatch.BatchingExecutor$AbstractBatch.processBatch(BatchingExecutor.scala:73)
+	at org.apache.pekko.dispatch.BatchingExecutor$BlockableBatch.$anonfun$run$1(BatchingExecutor.scala:110)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)
+	at scala.concurrent.BlockContext$.withBlockContext(BlockContext.scala:85)
+	at org.apache.pekko.dispatch.BatchingExecutor$BlockableBatch.run(BatchingExecutor.scala:110)
+	at org.apache.pekko.dispatch.TaskInvocation.run(AbstractDispatcher.scala:59)
+	at org.apache.pekko.dispatch.ForkJoinExecutorConfigurator$PekkoForkJoinTask.exec(ForkJoinExecutorConfigurator.scala:57)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:507)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1489)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:2071)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:2033)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:187)
+Caused by: org.apache.flink.runtime.JobException: Recovery is suppressed by NoRestartBackoffTimeStrategy
+	at org.apache.flink.runtime.executiongraph.failover.flip1.ExecutionFailureHandler.handleFailure(ExecutionFailureHandler.java:176)
+	at org.apache.flink.runtime.executiongraph.failover.flip1.ExecutionFailureHandler.getFailureHandlingResult(ExecutionFailureHandler.java:107)
+	at org.apache.flink.runtime.scheduler.DefaultScheduler.recordTaskFailure(DefaultScheduler.java:285)
+	at org.apache.flink.runtime.scheduler.DefaultScheduler.handleTaskFailure(DefaultScheduler.java:276)
+	at org.apache.flink.runtime.scheduler.DefaultScheduler.onTaskFailed(DefaultScheduler.java:269)
+	at org.apache.flink.runtime.scheduler.SchedulerBase.onTaskExecutionStateUpdate(SchedulerBase.java:764)
+	at org.apache.flink.runtime.scheduler.SchedulerBase.updateTaskExecutionState(SchedulerBase.java:741)
+	at org.apache.flink.runtime.scheduler.SchedulerNG.updateTaskExecutionState(SchedulerNG.java:83)
+	at org.apache.flink.runtime.jobmaster.JobMaster.updateTaskExecutionState(JobMaster.java:488)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.apache.flink.runtime.rpc.pekko.PekkoRpcActor.lambda$handleRpcInvocation$1(PekkoRpcActor.java:309)
+	at org.apache.flink.runtime.concurrent.ClassLoadingUtils.runWithContextClassLoader(ClassLoadingUtils.java:83)
+	at org.apache.flink.runtime.rpc.pekko.PekkoRpcActor.handleRpcInvocation(PekkoRpcActor.java:307)
+	at org.apache.flink.runtime.rpc.pekko.PekkoRpcActor.handleRpcMessage(PekkoRpcActor.java:222)
+	at org.apache.flink.runtime.rpc.pekko.FencedPekkoRpcActor.handleRpcMessage(FencedPekkoRpcActor.java:85)
+	at org.apache.flink.runtime.rpc.pekko.PekkoRpcActor.handleMessage(PekkoRpcActor.java:168)
+	at org.apache.pekko.japi.pf.UnitCaseStatement.apply(CaseStatements.scala:33)
+	at org.apache.pekko.japi.pf.UnitCaseStatement.apply(CaseStatements.scala:29)
+	at scala.PartialFunction.applyOrElse(PartialFunction.scala:127)
+	at scala.PartialFunction.applyOrElse$(PartialFunction.scala:126)
+	at org.apache.pekko.japi.pf.UnitCaseStatement.applyOrElse(CaseStatements.scala:29)
+	at scala.PartialFunction$OrElse.applyOrElse(PartialFunction.scala:175)
+	at scala.PartialFunction$OrElse.applyOrElse(PartialFunction.scala:176)
+	at scala.PartialFunction$OrElse.applyOrElse(PartialFunction.scala:176)
+	at org.apache.pekko.actor.Actor.aroundReceive(Actor.scala:547)
+	at org.apache.pekko.actor.Actor.aroundReceive$(Actor.scala:545)
+	at org.apache.pekko.actor.AbstractActor.aroundReceive(AbstractActor.scala:229)
+	at org.apache.pekko.actor.ActorCell.receiveMessage(ActorCell.scala:590)
+	at org.apache.pekko.actor.ActorCell.invoke(ActorCell.scala:557)
+	at org.apache.pekko.dispatch.Mailbox.processMailbox(Mailbox.scala:280)
+	at org.apache.pekko.dispatch.Mailbox.run(Mailbox.scala:241)
+	at org.apache.pekko.dispatch.Mailbox.exec(Mailbox.scala:253)
+	... 5 more
+Caused by: org.apache.flink.kafka.shaded.org.apache.kafka.common.config.ConfigException: Invalid value org.apache.kafka.common.serialization.StringSerializer for configuration key.serializer: Class org.apache.kafka.common.serialization.StringSerializer could not be found.
+	at org.apache.flink.kafka.shaded.org.apache.kafka.common.config.ConfigDef.parseType(ConfigDef.java:744)
+	at org.apache.flink.kafka.shaded.org.apache.kafka.common.config.ConfigDef.parseValue(ConfigDef.java:490)
+	at org.apache.flink.kafka.shaded.org.apache.kafka.common.config.ConfigDef.parse(ConfigDef.java:483)
+	at org.apache.flink.kafka.shaded.org.apache.kafka.common.config.AbstractConfig.<init>(AbstractConfig.java:113)
+	at org.apache.flink.kafka.shaded.org.apache.kafka.common.config.AbstractConfig.<init>(AbstractConfig.java:133)
+	at org.apache.flink.kafka.shaded.org.apache.kafka.clients.producer.ProducerConfig.<init>(ProducerConfig.java:553)
+	at org.apache.flink.kafka.shaded.org.apache.kafka.clients.producer.KafkaProducer.<init>(KafkaProducer.java:289)
+	at org.apache.flink.kafka.shaded.org.apache.kafka.clients.producer.KafkaProducer.<init>(KafkaProducer.java:316)
+	at org.apache.flink.kafka.shaded.org.apache.kafka.clients.producer.KafkaProducer.<init>(KafkaProducer.java:301)
+	at org.apache.flink.streaming.connectors.kafka.internals.FlinkKafkaInternalProducer.<init>(FlinkKafkaInternalProducer.java:79)
+	at org.apache.flink.streaming.connectors.kafka.FlinkKafkaProducer.createProducer(FlinkKafkaProducer.java:1257)
+	at org.apache.flink.streaming.connectors.kafka.FlinkKafkaProducer.initProducer(FlinkKafkaProducer.java:1382)
+	at org.apache.flink.streaming.connectors.kafka.FlinkKafkaProducer.initNonTransactionalProducer(FlinkKafkaProducer.java:1378)
+	at org.apache.flink.streaming.connectors.kafka.FlinkKafkaProducer.beginTransaction(FlinkKafkaProducer.java:1001)
+	at org.apache.flink.streaming.connectors.kafka.FlinkKafkaProducer.beginTransaction(FlinkKafkaProducer.java:101)
+	at org.apache.flink.streaming.api.functions.sink.TwoPhaseCommitSinkFunction.beginTransactionInternal(TwoPhaseCommitSinkFunction.java:431)
+	at org.apache.flink.streaming.api.functions.sink.TwoPhaseCommitSinkFunction.initializeState(TwoPhaseCommitSinkFunction.java:422)
+	at org.apache.flink.streaming.connectors.kafka.FlinkKafkaProducer.initializeState(FlinkKafkaProducer.java:1222)
+	at org.apache.flink.streaming.util.functions.StreamingFunctionUtils.tryRestoreFunction(StreamingFunctionUtils.java:189)
+	at org.apache.flink.streaming.util.functions.StreamingFunctionUtils.restoreFunctionState(StreamingFunctionUtils.java:171)
+	at org.apache.flink.streaming.api.operators.AbstractUdfStreamOperator.initializeState(AbstractUdfStreamOperator.java:95)
+	at org.apache.flink.streaming.api.operators.StreamOperatorStateHandler.initializeOperatorState(StreamOperatorStateHandler.java:122)
+	at org.apache.flink.streaming.api.operators.AbstractStreamOperator.initializeState(AbstractStreamOperator.java:274)
+	at org.apache.flink.streaming.runtime.tasks.RegularOperatorChain.initializeStateAndOpenOperators(RegularOperatorChain.java:106)
+	at org.apache.flink.streaming.runtime.tasks.StreamTask.restoreGates(StreamTask.java:753)
+	at org.apache.flink.streaming.runtime.tasks.StreamTaskActionExecutor$SynchronizedStreamTaskActionExecutor.call(StreamTaskActionExecutor.java:100)
+	at org.apache.flink.streaming.runtime.tasks.StreamTask.restoreInternal(StreamTask.java:728)
+	at org.apache.flink.streaming.runtime.tasks.StreamTask.restore(StreamTask.java:693)
+	at org.apache.flink.runtime.taskmanager.Task.runWithSystemExitMonitoring(Task.java:953)
+	at org.apache.flink.runtime.taskmanager.Task.restoreAndInvoke(Task.java:922)
+	at org.apache.flink.runtime.taskmanager.Task.doRun(Task.java:746)
+	at org.apache.flink.runtime.taskmanager.Task.run(Task.java:562)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+Traceback (most recent call last):
+  File "/home/avanish/traffic_predictor/src/traffic_predictor.py", line 243, in main
+    env.execute("Traffic Speed Prediction Job")
+  File "/home/avanish/anaconda3/envs/traffic_pred/lib/python3.10/site-packages/pyflink/datastream/stream_execution_environment.py", line 764, in execute
+    return JobExecutionResult(self._j_stream_execution_environment.execute(j_stream_graph))
+  File "/home/avanish/anaconda3/envs/traffic_pred/lib/python3.10/site-packages/py4j/java_gateway.py", line 1322, in __call__
+    return_value = get_return_value(
+  File "/home/avanish/anaconda3/envs/traffic_pred/lib/python3.10/site-packages/pyflink/util/exceptions.py", line 146, in deco
+    return f(*a, **kw)
+  File "/home/avanish/anaconda3/envs/traffic_pred/lib/python3.10/site-packages/py4j/protocol.py", line 326, in get_return_value
+    raise Py4JJavaError(
+py4j.protocol.Py4JJavaError: An error occurred while calling o16.execute.
+: org.apache.flink.runtime.client.JobExecutionException: Job execution failed.
+	at org.apache.flink.runtime.jobmaster.JobResult.toJobExecutionResult(JobResult.java:144)
+	at org.apache.flink.runtime.minicluster.MiniClusterJobClient.lambda$getJobExecutionResult$3(MiniClusterJobClient.java:141)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2179)
+	at org.apache.flink.runtime.rpc.pekko.PekkoInvocationHandler.lambda$invokeRpc$1(PekkoInvocationHandler.java:268)
+	at java.base/java.util.concurrent.CompletableFuture.uniWhenComplete(CompletableFuture.java:863)
+	at java.base/java.util.concurrent.CompletableFuture$UniWhenComplete.tryFire(CompletableFuture.java:841)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2179)
+	at org.apache.flink.util.concurrent.FutureUtils.doForward(FutureUtils.java:1267)
+	at org.apache.flink.runtime.concurrent.ClassLoadingUtils.lambda$null$1(ClassLoadingUtils.java:93)
+	at org.apache.flink.runtime.concurrent.ClassLoadingUtils.runWithContextClassLoader(ClassLoadingUtils.java:68)
+	at org.apache.flink.runtime.concurrent.ClassLoadingUtils.lambda$guardCompletionWithContextClassLoader$2(ClassLoadingUtils.java:92)
+	at java.base/java.util.concurrent.CompletableFuture.uniWhenComplete(CompletableFuture.java:863)
+	at java.base/java.util.concurrent.CompletableFuture$UniWhenComplete.tryFire(CompletableFuture.java:841)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2179)
+	at org.apache.flink.runtime.concurrent.pekko.ScalaFutureUtils$1.onComplete(ScalaFutureUtils.java:47)
+	at org.apache.pekko.dispatch.OnComplete.internal(Future.scala:310)
+	at org.apache.pekko.dispatch.OnComplete.internal(Future.scala:307)
+	at org.apache.pekko.dispatch.japi$CallbackBridge.apply(Future.scala:234)
+	at org.apache.pekko.dispatch.japi$CallbackBridge.apply(Future.scala:231)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at org.apache.flink.runtime.concurrent.pekko.ScalaFutureUtils$DirectExecutionContext.execute(ScalaFutureUtils.java:65)
+	at scala.concurrent.impl.CallbackRunnable.executeWithValue(Promise.scala:72)
+	at scala.concurrent.impl.Promise$DefaultPromise.$anonfun$tryComplete$1(Promise.scala:288)
+	at scala.concurrent.impl.Promise$DefaultPromise.$anonfun$tryComplete$1$adapted(Promise.scala:288)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete(Promise.scala:288)
+	at org.apache.pekko.pattern.PromiseActorRef.$bang(AskSupport.scala:629)
+	at org.apache.pekko.pattern.PipeToSupport$PipeableFuture$$anonfun$pipeTo$1.applyOrElse(PipeToSupport.scala:34)
+	at org.apache.pekko.pattern.PipeToSupport$PipeableFuture$$anonfun$pipeTo$1.applyOrElse(PipeToSupport.scala:33)
+	at scala.concurrent.Future.$anonfun$andThen$1(Future.scala:536)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at org.apache.pekko.dispatch.BatchingExecutor$AbstractBatch.processBatch(BatchingExecutor.scala:73)
+	at org.apache.pekko.dispatch.BatchingExecutor$BlockableBatch.$anonfun$run$1(BatchingExecutor.scala:110)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)
+	at scala.concurrent.BlockContext$.withBlockContext(BlockContext.scala:85)
+	at org.apache.pekko.dispatch.BatchingExecutor$BlockableBatch.run(BatchingExecutor.scala:110)
+	at org.apache.pekko.dispatch.TaskInvocation.run(AbstractDispatcher.scala:59)
+	at org.apache.pekko.dispatch.ForkJoinExecutorConfigurator$PekkoForkJoinTask.exec(ForkJoinExecutorConfigurator.scala:57)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:507)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1489)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:2071)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:2033)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:187)
+Caused by: org.apache.flink.runtime.JobException: Recovery is suppressed by NoRestartBackoffTimeStrategy
+	at org.apache.flink.runtime.executiongraph.failover.flip1.ExecutionFailureHandler.handleFailure(ExecutionFailureHandler.java:176)
+	at org.apache.flink.runtime.executiongraph.failover.flip1.ExecutionFailureHandler.getFailureHandlingResult(ExecutionFailureHandler.java:107)
+	at org.apache.flink.runtime.scheduler.DefaultScheduler.recordTaskFailure(DefaultScheduler.java:285)
+	at org.apache.flink.runtime.scheduler.DefaultScheduler.handleTaskFailure(DefaultScheduler.java:276)
+	at org.apache.flink.runtime.scheduler.DefaultScheduler.onTaskFailed(DefaultScheduler.java:269)
+	at org.apache.flink.runtime.scheduler.SchedulerBase.onTaskExecutionStateUpdate(SchedulerBase.java:764)
+	at org.apache.flink.runtime.scheduler.SchedulerBase.updateTaskExecutionState(SchedulerBase.java:741)
+	at org.apache.flink.runtime.scheduler.SchedulerNG.updateTaskExecutionState(SchedulerNG.java:83)
+	at org.apache.flink.runtime.jobmaster.JobMaster.updateTaskExecutionState(JobMaster.java:488)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.apache.flink.runtime.rpc.pekko.PekkoRpcActor.lambda$handleRpcInvocation$1(PekkoRpcActor.java:309)
+	at org.apache.flink.runtime.concurrent.ClassLoadingUtils.runWithContextClassLoader(ClassLoadingUtils.java:83)
+	at org.apache.flink.runtime.rpc.pekko.PekkoRpcActor.handleRpcInvocation(PekkoRpcActor.java:307)
+	at org.apache.flink.runtime.rpc.pekko.PekkoRpcActor.handleRpcMessage(PekkoRpcActor.java:222)
+	at org.apache.flink.runtime.rpc.pekko.FencedPekkoRpcActor.handleRpcMessage(FencedPekkoRpcActor.java:85)
+	at org.apache.flink.runtime.rpc.pekko.PekkoRpcActor.handleMessage(PekkoRpcActor.java:168)
+	at org.apache.pekko.japi.pf.UnitCaseStatement.apply(CaseStatements.scala:33)
+	at org.apache.pekko.japi.pf.UnitCaseStatement.apply(CaseStatements.scala:29)
+	at scala.PartialFunction.applyOrElse(PartialFunction.scala:127)
+	at scala.PartialFunction.applyOrElse$(PartialFunction.scala:126)
+	at org.apache.pekko.japi.pf.UnitCaseStatement.applyOrElse(CaseStatements.scala:29)
+	at scala.PartialFunction$OrElse.applyOrElse(PartialFunction.scala:175)
+	at scala.PartialFunction$OrElse.applyOrElse(PartialFunction.scala:176)
+	at scala.PartialFunction$OrElse.applyOrElse(PartialFunction.scala:176)
+	at org.apache.pekko.actor.Actor.aroundReceive(Actor.scala:547)
+	at org.apache.pekko.actor.Actor.aroundReceive$(Actor.scala:545)
+	at org.apache.pekko.actor.AbstractActor.aroundReceive(AbstractActor.scala:229)
+	at org.apache.pekko.actor.ActorCell.receiveMessage(ActorCell.scala:590)
+	at org.apache.pekko.actor.ActorCell.invoke(ActorCell.scala:557)
+	at org.apache.pekko.dispatch.Mailbox.processMailbox(Mailbox.scala:280)
+	at org.apache.pekko.dispatch.Mailbox.run(Mailbox.scala:241)
+	at org.apache.pekko.dispatch.Mailbox.exec(Mailbox.scala:253)
+	... 5 more
+Caused by: org.apache.flink.kafka.shaded.org.apache.kafka.common.config.ConfigException: Invalid value org.apache.kafka.common.serialization.StringSerializer for configuration key.serializer: Class org.apache.kafka.common.serialization.StringSerializer could not be found.
+	at org.apache.flink.kafka.shaded.org.apache.kafka.common.config.ConfigDef.parseType(ConfigDef.java:744)
+	at org.apache.flink.kafka.shaded.org.apache.kafka.common.config.ConfigDef.parseValue(ConfigDef.java:490)
+	at org.apache.flink.kafka.shaded.org.apache.kafka.common.config.ConfigDef.parse(ConfigDef.java:483)
+	at org.apache.flink.kafka.shaded.org.apache.kafka.common.config.AbstractConfig.<init>(AbstractConfig.java:113)
+	at org.apache.flink.kafka.shaded.org.apache.kafka.common.config.AbstractConfig.<init>(AbstractConfig.java:133)
+	at org.apache.flink.kafka.shaded.org.apache.kafka.clients.producer.ProducerConfig.<init>(ProducerConfig.java:553)
+	at org.apache.flink.kafka.shaded.org.apache.kafka.clients.producer.KafkaProducer.<init>(KafkaProducer.java:289)
+	at org.apache.flink.kafka.shaded.org.apache.kafka.clients.producer.KafkaProducer.<init>(KafkaProducer.java:316)
+	at org.apache.flink.kafka.shaded.org.apache.kafka.clients.producer.KafkaProducer.<init>(KafkaProducer.java:301)
+	at org.apache.flink.streaming.connectors.kafka.internals.FlinkKafkaInternalProducer.<init>(FlinkKafkaInternalProducer.java:79)
+	at org.apache.flink.streaming.connectors.kafka.FlinkKafkaProducer.createProducer(FlinkKafkaProducer.java:1257)
+	at org.apache.flink.streaming.connectors.kafka.FlinkKafkaProducer.initProducer(FlinkKafkaProducer.java:1382)
+	at org.apache.flink.streaming.connectors.kafka.FlinkKafkaProducer.initNonTransactionalProducer(FlinkKafkaProducer.java:1378)
+	at org.apache.flink.streaming.connectors.kafka.FlinkKafkaProducer.beginTransaction(FlinkKafkaProducer.java:1001)
+	at org.apache.flink.streaming.connectors.kafka.FlinkKafkaProducer.beginTransaction(FlinkKafkaProducer.java:101)
+	at org.apache.flink.streaming.api.functions.sink.TwoPhaseCommitSinkFunction.beginTransactionInternal(TwoPhaseCommitSinkFunction.java:431)
+	at org.apache.flink.streaming.api.functions.sink.TwoPhaseCommitSinkFunction.initializeState(TwoPhaseCommitSinkFunction.java:422)
+	at org.apache.flink.streaming.connectors.kafka.FlinkKafkaProducer.initializeState(FlinkKafkaProducer.java:1222)
+	at org.apache.flink.streaming.util.functions.StreamingFunctionUtils.tryRestoreFunction(StreamingFunctionUtils.java:189)
+	at org.apache.flink.streaming.util.functions.StreamingFunctionUtils.restoreFunctionState(StreamingFunctionUtils.java:171)
+	at org.apache.flink.streaming.api.operators.AbstractUdfStreamOperator.initializeState(AbstractUdfStreamOperator.java:95)
+	at org.apache.flink.streaming.api.operators.StreamOperatorStateHandler.initializeOperatorState(StreamOperatorStateHandler.java:122)
+	at org.apache.flink.streaming.api.operators.AbstractStreamOperator.initializeState(AbstractStreamOperator.java:274)
+	at org.apache.flink.streaming.runtime.tasks.RegularOperatorChain.initializeStateAndOpenOperators(RegularOperatorChain.java:106)
+	at org.apache.flink.streaming.runtime.tasks.StreamTask.restoreGates(StreamTask.java:753)
+	at org.apache.flink.streaming.runtime.tasks.StreamTaskActionExecutor$SynchronizedStreamTaskActionExecutor.call(StreamTaskActionExecutor.java:100)
+	at org.apache.flink.streaming.runtime.tasks.StreamTask.restoreInternal(StreamTask.java:728)
+	at org.apache.flink.streaming.runtime.tasks.StreamTask.restore(StreamTask.java:693)
+	at org.apache.flink.runtime.taskmanager.Task.runWithSystemExitMonitoring(Task.java:953)
+	at org.apache.flink.runtime.taskmanager.Task.restoreAndInvoke(Task.java:922)
+	at org.apache.flink.runtime.taskmanager.Task.doRun(Task.java:746)
+	at org.apache.flink.runtime.taskmanager.Task.run(Task.java:562)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+2024-11-29 03:29:48,820 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 03:29:48,881 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 03:35:42,339 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 03:35:42,400 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 03:35:42,480 - ERROR - Error in execution: FlinkKafkaProducer.__init__() got an unexpected keyword argument 'value_serializer'
+Traceback (most recent call last):
+  File "/home/avanish/traffic_predictor/src/traffic_predictor.py", line 224, in main
+    kafka_sink = FlinkKafkaProducer(
+TypeError: FlinkKafkaProducer.__init__() got an unexpected keyword argument 'value_serializer'
+2024-11-29 03:38:12,981 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 03:38:13,039 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 03:38:13,298 - ERROR - Error in execution: Need at least one: key or value
+Traceback (most recent call last):
+  File "/home/avanish/traffic_predictor/src/traffic_predictor.py", line 240, in main
+    producer.send(new_stream)
+  File "/home/avanish/anaconda3/envs/traffic_pred/lib/python3.10/site-packages/kafka/producer/kafka.py", line 573, in send
+    assert not (value is None and key is None), 'Need at least one: key or value'
+AssertionError: Need at least one: key or value
+2024-11-29 03:39:26,805 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 03:39:26,864 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 03:39:27,125 - ERROR - Error in execution: Object of type DataStream is not JSON serializable
+Traceback (most recent call last):
+  File "/home/avanish/traffic_predictor/src/traffic_predictor.py", line 240, in main
+    producer.send(topic,value = new_stream)
+  File "/home/avanish/anaconda3/envs/traffic_pred/lib/python3.10/site-packages/kafka/producer/kafka.py", line 581, in send
+    value_bytes = self._serialize(
+  File "/home/avanish/anaconda3/envs/traffic_pred/lib/python3.10/site-packages/kafka/producer/kafka.py", line 714, in _serialize
+    return f(data)
+  File "/home/avanish/traffic_predictor/src/traffic_predictor.py", line 232, in <lambda>
+    value_serializer=lambda v: json.dumps(v).encode('utf-8')
+  File "/home/avanish/anaconda3/envs/traffic_pred/lib/python3.10/json/__init__.py", line 231, in dumps
+    return _default_encoder.encode(obj)
+  File "/home/avanish/anaconda3/envs/traffic_pred/lib/python3.10/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/home/avanish/anaconda3/envs/traffic_pred/lib/python3.10/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/home/avanish/anaconda3/envs/traffic_pred/lib/python3.10/json/encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type DataStream is not JSON serializable
+2024-11-29 03:42:22,695 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 03:42:22,755 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 03:43:58,009 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 03:43:58,067 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 03:45:03,200 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 03:45:03,263 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 03:54:27,983 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 03:54:28,052 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 03:57:09,988 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 03:57:10,051 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 03:59:39,044 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 03:59:39,107 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 04:01:57,500 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 04:01:57,560 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 04:18:05,669 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 04:18:05,730 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 04:18:05,874 - ERROR - Error in execution: Can't instantiate abstract class TrafficPredictor with abstract method map
+Traceback (most recent call last):
+  File "/home/avanish/traffic_predictor/src/traffic_predictor.py", line 237, in main
+    ds.map(TrafficPredictor()) \
+TypeError: Can't instantiate abstract class TrafficPredictor with abstract method map
+2024-11-29 04:20:38,829 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 04:20:38,889 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 04:22:25,086 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 04:22:25,144 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 04:28:57,193 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 04:28:57,252 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 04:28:57,332 - ERROR - Error in execution: Encoder.__init__() missing 1 required positional argument: 'j_encoder'
+Traceback (most recent call last):
+  File "/home/avanish/traffic_predictor/src/traffic_predictor.py", line 240, in main
+    serialization_schema=BytesSerializationSchema(),
+TypeError: Encoder.__init__() missing 1 required positional argument: 'j_encoder'
+2024-11-29 05:15:04,888 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 05:15:04,988 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 05:17:25,391 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 05:17:25,478 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 05:18:28,612 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 05:18:28,670 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 05:19:54,666 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 05:19:54,724 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 05:22:38,124 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 05:22:38,182 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 05:24:17,346 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 05:24:17,403 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 05:27:27,822 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 05:27:27,877 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 05:27:55,184 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 05:27:55,243 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 05:30:29,805 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 05:30:29,866 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 05:32:14,020 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 05:32:14,087 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 05:33:45,946 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 05:33:46,004 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 05:34:53,534 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 05:34:53,617 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 05:35:44,832 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 05:35:44,898 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 05:50:17,726 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 05:50:17,793 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 05:52:25,440 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 05:52:25,540 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 05:53:07,120 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 05:53:07,176 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 16:44:30,965 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 16:44:31,066 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 16:53:54,996 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 16:53:55,054 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 16:57:21,315 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 16:57:21,400 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 17:53:07,772 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 17:53:07,843 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 17:54:31,655 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 17:54:31,729 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 17:58:52,355 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 17:58:52,412 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 18:00:40,167 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 18:00:40,229 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 18:05:27,899 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 18:05:27,957 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 18:08:38,440 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 18:08:38,503 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 18:12:58,411 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 18:12:58,469 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 18:12:58,608 - ERROR - Error in execution: Can't instantiate abstract class TrafficPredictor with abstract method map
+Traceback (most recent call last):
+  File "/home/avanish/traffic_predictor/src/traffic_predictor.py", line 262, in main
+    prediction_stream = ds.process(TrafficPredictor())
+TypeError: Can't instantiate abstract class TrafficPredictor with abstract method map
+2024-11-29 18:14:10,134 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 18:14:10,194 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 18:14:10,341 - ERROR - Error in execution: Can't instantiate abstract class TrafficPredictor with abstract method process_element
+Traceback (most recent call last):
+  File "/home/avanish/traffic_predictor/src/traffic_predictor.py", line 262, in main
+    prediction_stream = ds.process(TrafficPredictor())
+TypeError: Can't instantiate abstract class TrafficPredictor with abstract method process_element
+2024-11-29 18:17:17,595 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 18:17:17,657 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 18:19:23,250 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 18:19:23,315 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 18:25:22,834 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 18:25:22,893 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 18:25:23,019 - ERROR - Error in execution: local variable 'ds' referenced before assignment
+Traceback (most recent call last):
+  File "/home/avanish/traffic_predictor/src/traffic_predictor.py", line 261, in main
+    ds.map(log_data)
+UnboundLocalError: local variable 'ds' referenced before assignment
+2024-11-29 18:25:46,997 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 18:25:47,057 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 18:41:36,668 - INFO - Starting Traffic Prediction Application...
+2024-11-29 18:41:36,669 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: connecting to localhost:9092 [('127.0.0.1', 9092) IPv4]
+2024-11-29 18:41:36,670 - INFO - Probing node bootstrap-0 broker version
+2024-11-29 18:41:36,670 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: Connection complete.
+2024-11-29 18:41:36,773 - INFO - Broker version identified as 2.5.0
+2024-11-29 18:41:36,773 - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2024-11-29 18:41:36,773 - INFO - Probing node bootstrap-0 broker version
+2024-11-29 18:41:36,876 - INFO - Broker version identified as 2.5.0
+2024-11-29 18:41:36,876 - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2024-11-29 18:41:36,880 - INFO - <BrokerConnection node_id=0 host=192.168.245.7:9092 <connecting> [IPv4 ('192.168.245.7', 9092)]>: connecting to 192.168.245.7:9092 [('192.168.245.7', 9092) IPv4]
+2024-11-29 18:41:36,880 - INFO - Probing node 0 broker version
+2024-11-29 18:41:36,881 - INFO - <BrokerConnection node_id=0 host=192.168.245.7:9092 <connecting> [IPv4 ('192.168.245.7', 9092)]>: Connection complete.
+2024-11-29 18:41:36,881 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv4 ('127.0.0.1', 9092)]>: Closing connection. 
+2024-11-29 18:41:36,983 - INFO - Broker version identified as 2.5.0
+2024-11-29 18:41:36,984 - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2024-11-29 18:41:36,986 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: connecting to localhost:9092 [('127.0.0.1', 9092) IPv4]
+2024-11-29 18:41:36,986 - INFO - Probing node bootstrap-0 broker version
+2024-11-29 18:41:36,986 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: Connection complete.
+2024-11-29 18:41:37,089 - INFO - Broker version identified as 2.5.0
+2024-11-29 18:41:37,089 - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2024-11-29 18:41:37,090 - WARNING - group_id is None: disabling auto-commit.
+2024-11-29 18:41:37,090 - INFO - Updating subscribed topics to: ('csv_topic',)
+2024-11-29 18:41:37,090 - INFO - Checking for messages in csv_topic...
+2024-11-29 18:41:37,091 - INFO - Updated partition assignment: [TopicPartition(topic='csv_topic', partition=0), TopicPartition(topic='csv_topic', partition=1), TopicPartition(topic='csv_topic', partition=2), TopicPartition(topic='csv_topic', partition=3)]
+2024-11-29 18:41:37,091 - INFO - <BrokerConnection node_id=0 host=192.168.245.7:9092 <connecting> [IPv4 ('192.168.245.7', 9092)]>: connecting to 192.168.245.7:9092 [('192.168.245.7', 9092) IPv4]
+2024-11-29 18:41:37,092 - INFO - <BrokerConnection node_id=0 host=192.168.245.7:9092 <connecting> [IPv4 ('192.168.245.7', 9092)]>: Connection complete.
+2024-11-29 18:41:37,092 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv4 ('127.0.0.1', 9092)]>: Closing connection. 
+2024-11-29 18:41:37,210 - INFO - <BrokerConnection node_id=0 host=192.168.245.7:9092 <connected> [IPv4 ('192.168.245.7', 9092)]>: Closing connection. 
+2024-11-29 18:41:37,210 - INFO - <BrokerConnection node_id=0 host=192.168.245.7:9092 <connected> [IPv4 ('192.168.245.7', 9092)]>: Closing connection. 
+2024-11-29 18:41:37,210 - INFO - Setting up Flink environment...
+2024-11-29 18:41:38,514 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 18:41:38,592 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 18:45:31,459 - INFO - Starting Traffic Prediction Application...
+2024-11-29 18:45:31,461 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: connecting to localhost:9092 [('127.0.0.1', 9092) IPv4]
+2024-11-29 18:45:31,461 - INFO - Probing node bootstrap-0 broker version
+2024-11-29 18:45:31,461 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: Connection complete.
+2024-11-29 18:45:31,564 - INFO - Broker version identified as 2.5.0
+2024-11-29 18:45:31,564 - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2024-11-29 18:45:31,564 - INFO - Probing node bootstrap-0 broker version
+2024-11-29 18:45:31,667 - INFO - Broker version identified as 2.5.0
+2024-11-29 18:45:31,667 - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2024-11-29 18:45:31,671 - INFO - <BrokerConnection node_id=0 host=192.168.245.7:9092 <connecting> [IPv4 ('192.168.245.7', 9092)]>: connecting to 192.168.245.7:9092 [('192.168.245.7', 9092) IPv4]
+2024-11-29 18:45:31,671 - INFO - Probing node 0 broker version
+2024-11-29 18:45:31,671 - INFO - <BrokerConnection node_id=0 host=192.168.245.7:9092 <connecting> [IPv4 ('192.168.245.7', 9092)]>: Connection complete.
+2024-11-29 18:45:31,671 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv4 ('127.0.0.1', 9092)]>: Closing connection. 
+2024-11-29 18:45:31,774 - INFO - Broker version identified as 2.5.0
+2024-11-29 18:45:31,774 - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2024-11-29 18:45:31,776 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: connecting to localhost:9092 [('127.0.0.1', 9092) IPv4]
+2024-11-29 18:45:31,776 - INFO - Probing node bootstrap-0 broker version
+2024-11-29 18:45:31,776 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: Connection complete.
+2024-11-29 18:45:31,879 - INFO - Broker version identified as 2.5.0
+2024-11-29 18:45:31,879 - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2024-11-29 18:45:31,880 - WARNING - group_id is None: disabling auto-commit.
+2024-11-29 18:45:31,880 - INFO - Updating subscribed topics to: ('csv_topic',)
+2024-11-29 18:45:31,880 - INFO - Checking for messages in csv_topic...
+2024-11-29 18:45:31,881 - INFO - Updated partition assignment: [TopicPartition(topic='csv_topic', partition=0), TopicPartition(topic='csv_topic', partition=1), TopicPartition(topic='csv_topic', partition=2), TopicPartition(topic='csv_topic', partition=3)]
+2024-11-29 18:45:31,882 - INFO - <BrokerConnection node_id=0 host=192.168.245.7:9092 <connecting> [IPv4 ('192.168.245.7', 9092)]>: connecting to 192.168.245.7:9092 [('192.168.245.7', 9092) IPv4]
+2024-11-29 18:45:31,882 - INFO - <BrokerConnection node_id=0 host=192.168.245.7:9092 <connecting> [IPv4 ('192.168.245.7', 9092)]>: Connection complete.
+2024-11-29 18:45:31,882 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv4 ('127.0.0.1', 9092)]>: Closing connection. 
+2024-11-29 18:45:31,988 - INFO - <BrokerConnection node_id=0 host=192.168.245.7:9092 <connected> [IPv4 ('192.168.245.7', 9092)]>: Closing connection. 
+2024-11-29 18:45:31,988 - INFO - <BrokerConnection node_id=0 host=192.168.245.7:9092 <connected> [IPv4 ('192.168.245.7', 9092)]>: Closing connection. 
+2024-11-29 18:45:31,989 - INFO - Setting up Flink environment...
+2024-11-29 18:45:33,114 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 18:45:33,170 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 18:46:19,704 - INFO - Starting Traffic Prediction Application...
+2024-11-29 18:46:19,705 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: connecting to localhost:9092 [('127.0.0.1', 9092) IPv4]
+2024-11-29 18:46:19,705 - INFO - Probing node bootstrap-0 broker version
+2024-11-29 18:46:19,705 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: Connection complete.
+2024-11-29 18:46:19,808 - INFO - Broker version identified as 2.5.0
+2024-11-29 18:46:19,809 - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2024-11-29 18:46:19,809 - INFO - Probing node bootstrap-0 broker version
+2024-11-29 18:46:19,911 - INFO - Broker version identified as 2.5.0
+2024-11-29 18:46:19,911 - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2024-11-29 18:46:19,916 - INFO - <BrokerConnection node_id=0 host=192.168.245.7:9092 <connecting> [IPv4 ('192.168.245.7', 9092)]>: connecting to 192.168.245.7:9092 [('192.168.245.7', 9092) IPv4]
+2024-11-29 18:46:19,917 - INFO - Probing node 0 broker version
+2024-11-29 18:46:19,917 - INFO - <BrokerConnection node_id=0 host=192.168.245.7:9092 <connecting> [IPv4 ('192.168.245.7', 9092)]>: Connection complete.
+2024-11-29 18:46:19,918 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv4 ('127.0.0.1', 9092)]>: Closing connection. 
+2024-11-29 18:46:20,020 - INFO - Broker version identified as 2.5.0
+2024-11-29 18:46:20,020 - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2024-11-29 18:46:20,022 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: connecting to localhost:9092 [('127.0.0.1', 9092) IPv4]
+2024-11-29 18:46:20,023 - INFO - Probing node bootstrap-0 broker version
+2024-11-29 18:46:20,023 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: Connection complete.
+2024-11-29 18:46:20,125 - INFO - Broker version identified as 2.5.0
+2024-11-29 18:46:20,125 - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2024-11-29 18:46:20,126 - WARNING - group_id is None: disabling auto-commit.
+2024-11-29 18:46:20,126 - INFO - Updating subscribed topics to: ('csv_topic',)
+2024-11-29 18:46:20,126 - INFO - Checking for messages in csv_topic...
+2024-11-29 18:46:20,127 - INFO - Updated partition assignment: [TopicPartition(topic='csv_topic', partition=0), TopicPartition(topic='csv_topic', partition=1), TopicPartition(topic='csv_topic', partition=2), TopicPartition(topic='csv_topic', partition=3)]
+2024-11-29 18:46:20,128 - INFO - <BrokerConnection node_id=0 host=192.168.245.7:9092 <connecting> [IPv4 ('192.168.245.7', 9092)]>: connecting to 192.168.245.7:9092 [('192.168.245.7', 9092) IPv4]
+2024-11-29 18:46:20,128 - INFO - <BrokerConnection node_id=0 host=192.168.245.7:9092 <connecting> [IPv4 ('192.168.245.7', 9092)]>: Connection complete.
+2024-11-29 18:46:20,128 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv4 ('127.0.0.1', 9092)]>: Closing connection. 
+2024-11-29 18:46:27,654 - INFO - <BrokerConnection node_id=0 host=192.168.245.7:9092 <connected> [IPv4 ('192.168.245.7', 9092)]>: Closing connection. 
+2024-11-29 18:46:27,655 - ERROR - Fetch to node 0 failed: Cancelled: <BrokerConnection node_id=0 host=192.168.245.7:9092 <connected> [IPv4 ('192.168.245.7', 9092)]>
+2024-11-29 18:46:27,655 - INFO - <BrokerConnection node_id=0 host=192.168.245.7:9092 <connected> [IPv4 ('192.168.245.7', 9092)]>: Closing connection. 
+2024-11-29 18:46:27,655 - INFO - Setting up Flink environment...
+2024-11-29 18:46:29,095 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 18:46:29,170 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 18:53:23,029 - INFO - Starting Traffic Prediction Application...
+2024-11-29 18:53:23,031 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: connecting to localhost:9092 [('127.0.0.1', 9092) IPv4]
+2024-11-29 18:53:23,031 - INFO - Probing node bootstrap-0 broker version
+2024-11-29 18:53:23,031 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: Connection complete.
+2024-11-29 18:53:23,133 - INFO - Broker version identified as 2.5.0
+2024-11-29 18:53:23,134 - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2024-11-29 18:53:23,134 - INFO - Probing node bootstrap-0 broker version
+2024-11-29 18:53:23,236 - INFO - Broker version identified as 2.5.0
+2024-11-29 18:53:23,236 - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2024-11-29 18:53:23,239 - INFO - <BrokerConnection node_id=0 host=192.168.245.7:9092 <connecting> [IPv4 ('192.168.245.7', 9092)]>: connecting to 192.168.245.7:9092 [('192.168.245.7', 9092) IPv4]
+2024-11-29 18:53:23,239 - INFO - Probing node 0 broker version
+2024-11-29 18:53:23,239 - INFO - <BrokerConnection node_id=0 host=192.168.245.7:9092 <connecting> [IPv4 ('192.168.245.7', 9092)]>: Connection complete.
+2024-11-29 18:53:23,239 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv4 ('127.0.0.1', 9092)]>: Closing connection. 
+2024-11-29 18:53:23,341 - INFO - Broker version identified as 2.5.0
+2024-11-29 18:53:23,342 - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2024-11-29 18:53:23,344 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: connecting to localhost:9092 [('127.0.0.1', 9092) IPv4]
+2024-11-29 18:53:23,344 - INFO - Probing node bootstrap-0 broker version
+2024-11-29 18:53:23,344 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: Connection complete.
+2024-11-29 18:53:23,446 - INFO - Broker version identified as 2.5.0
+2024-11-29 18:53:23,446 - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2024-11-29 18:53:23,446 - WARNING - group_id is None: disabling auto-commit.
+2024-11-29 18:53:23,446 - INFO - Updating subscribed topics to: ('csv_topic',)
+2024-11-29 18:53:23,446 - INFO - Checking for messages in csv_topic...
+2024-11-29 18:53:23,447 - INFO - Updated partition assignment: [TopicPartition(topic='csv_topic', partition=0), TopicPartition(topic='csv_topic', partition=1), TopicPartition(topic='csv_topic', partition=2), TopicPartition(topic='csv_topic', partition=3)]
+2024-11-29 18:53:23,448 - INFO - <BrokerConnection node_id=0 host=192.168.245.7:9092 <connecting> [IPv4 ('192.168.245.7', 9092)]>: connecting to 192.168.245.7:9092 [('192.168.245.7', 9092) IPv4]
+2024-11-29 18:53:23,448 - INFO - <BrokerConnection node_id=0 host=192.168.245.7:9092 <connecting> [IPv4 ('192.168.245.7', 9092)]>: Connection complete.
+2024-11-29 18:53:23,448 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv4 ('127.0.0.1', 9092)]>: Closing connection. 
+2024-11-29 18:53:23,553 - INFO - <BrokerConnection node_id=0 host=192.168.245.7:9092 <connected> [IPv4 ('192.168.245.7', 9092)]>: Closing connection. 
+2024-11-29 18:53:23,553 - INFO - <BrokerConnection node_id=0 host=192.168.245.7:9092 <connected> [IPv4 ('192.168.245.7', 9092)]>: Closing connection. 
+2024-11-29 18:53:23,553 - INFO - Setting up Flink environment...
+2024-11-29 18:53:24,568 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 18:53:24,626 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 18:55:45,266 - INFO - Starting Traffic Prediction Application...
+2024-11-29 18:55:45,267 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: connecting to localhost:9092 [('127.0.0.1', 9092) IPv4]
+2024-11-29 18:55:45,267 - INFO - Probing node bootstrap-0 broker version
+2024-11-29 18:55:45,268 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: Connection complete.
+2024-11-29 18:55:45,370 - INFO - Broker version identified as 2.5.0
+2024-11-29 18:55:45,370 - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2024-11-29 18:55:45,370 - INFO - Probing node bootstrap-0 broker version
+2024-11-29 18:55:45,473 - INFO - Broker version identified as 2.5.0
+2024-11-29 18:55:45,473 - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2024-11-29 18:55:45,476 - INFO - <BrokerConnection node_id=0 host=192.168.245.7:9092 <connecting> [IPv4 ('192.168.245.7', 9092)]>: connecting to 192.168.245.7:9092 [('192.168.245.7', 9092) IPv4]
+2024-11-29 18:55:45,476 - INFO - Probing node 0 broker version
+2024-11-29 18:55:45,476 - INFO - <BrokerConnection node_id=0 host=192.168.245.7:9092 <connecting> [IPv4 ('192.168.245.7', 9092)]>: Connection complete.
+2024-11-29 18:55:45,476 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv4 ('127.0.0.1', 9092)]>: Closing connection. 
+2024-11-29 18:55:45,578 - INFO - Broker version identified as 2.5.0
+2024-11-29 18:55:45,578 - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2024-11-29 18:55:45,580 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: connecting to localhost:9092 [('127.0.0.1', 9092) IPv4]
+2024-11-29 18:55:45,580 - INFO - Probing node bootstrap-0 broker version
+2024-11-29 18:55:45,580 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: Connection complete.
+2024-11-29 18:55:45,682 - INFO - Broker version identified as 2.5.0
+2024-11-29 18:55:45,682 - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2024-11-29 18:55:45,682 - WARNING - group_id is None: disabling auto-commit.
+2024-11-29 18:55:45,683 - INFO - Updating subscribed topics to: ('csv_topic',)
+2024-11-29 18:55:45,683 - INFO - Checking for messages in csv_topic...
+2024-11-29 18:55:45,683 - INFO - Updated partition assignment: [TopicPartition(topic='csv_topic', partition=0), TopicPartition(topic='csv_topic', partition=1), TopicPartition(topic='csv_topic', partition=2), TopicPartition(topic='csv_topic', partition=3)]
+2024-11-29 18:55:45,684 - INFO - <BrokerConnection node_id=0 host=192.168.245.7:9092 <connecting> [IPv4 ('192.168.245.7', 9092)]>: connecting to 192.168.245.7:9092 [('192.168.245.7', 9092) IPv4]
+2024-11-29 18:55:45,684 - INFO - <BrokerConnection node_id=0 host=192.168.245.7:9092 <connecting> [IPv4 ('192.168.245.7', 9092)]>: Connection complete.
+2024-11-29 18:55:45,684 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv4 ('127.0.0.1', 9092)]>: Closing connection. 
+2024-11-29 18:55:45,789 - INFO - <BrokerConnection node_id=0 host=192.168.245.7:9092 <connected> [IPv4 ('192.168.245.7', 9092)]>: Closing connection. 
+2024-11-29 18:55:45,789 - INFO - <BrokerConnection node_id=0 host=192.168.245.7:9092 <connected> [IPv4 ('192.168.245.7', 9092)]>: Closing connection. 
+2024-11-29 18:55:45,789 - INFO - Setting up Flink environment...
+2024-11-29 18:55:46,809 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 18:55:46,869 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 18:56:28,332 - INFO - Starting Traffic Prediction Application...
+2024-11-29 18:56:28,333 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: connecting to localhost:9092 [('127.0.0.1', 9092) IPv4]
+2024-11-29 18:56:28,333 - INFO - Probing node bootstrap-0 broker version
+2024-11-29 18:56:28,333 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: Connection complete.
+2024-11-29 18:56:28,436 - INFO - Broker version identified as 2.5.0
+2024-11-29 18:56:28,436 - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2024-11-29 18:56:28,436 - INFO - Probing node bootstrap-0 broker version
+2024-11-29 18:56:28,538 - INFO - Broker version identified as 2.5.0
+2024-11-29 18:56:28,538 - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2024-11-29 18:56:28,541 - INFO - <BrokerConnection node_id=0 host=192.168.245.7:9092 <connecting> [IPv4 ('192.168.245.7', 9092)]>: connecting to 192.168.245.7:9092 [('192.168.245.7', 9092) IPv4]
+2024-11-29 18:56:28,541 - INFO - Probing node 0 broker version
+2024-11-29 18:56:28,542 - INFO - <BrokerConnection node_id=0 host=192.168.245.7:9092 <connecting> [IPv4 ('192.168.245.7', 9092)]>: Connection complete.
+2024-11-29 18:56:28,542 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv4 ('127.0.0.1', 9092)]>: Closing connection. 
+2024-11-29 18:56:28,644 - INFO - Broker version identified as 2.5.0
+2024-11-29 18:56:28,644 - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2024-11-29 18:56:28,646 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: connecting to localhost:9092 [('127.0.0.1', 9092) IPv4]
+2024-11-29 18:56:28,646 - INFO - Probing node bootstrap-0 broker version
+2024-11-29 18:56:28,646 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: Connection complete.
+2024-11-29 18:56:28,748 - INFO - Broker version identified as 2.5.0
+2024-11-29 18:56:28,748 - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2024-11-29 18:56:28,749 - WARNING - group_id is None: disabling auto-commit.
+2024-11-29 18:56:28,749 - INFO - Updating subscribed topics to: ('csv_topic',)
+2024-11-29 18:56:28,749 - INFO - Checking for messages in csv_topic...
+2024-11-29 18:56:28,750 - INFO - Updated partition assignment: [TopicPartition(topic='csv_topic', partition=0), TopicPartition(topic='csv_topic', partition=1), TopicPartition(topic='csv_topic', partition=2), TopicPartition(topic='csv_topic', partition=3)]
+2024-11-29 18:56:28,750 - INFO - <BrokerConnection node_id=0 host=192.168.245.7:9092 <connecting> [IPv4 ('192.168.245.7', 9092)]>: connecting to 192.168.245.7:9092 [('192.168.245.7', 9092) IPv4]
+2024-11-29 18:56:28,750 - INFO - <BrokerConnection node_id=0 host=192.168.245.7:9092 <connecting> [IPv4 ('192.168.245.7', 9092)]>: Connection complete.
+2024-11-29 18:56:28,750 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv4 ('127.0.0.1', 9092)]>: Closing connection. 
+2024-11-29 18:56:28,855 - INFO - <BrokerConnection node_id=0 host=192.168.245.7:9092 <connected> [IPv4 ('192.168.245.7', 9092)]>: Closing connection. 
+2024-11-29 18:56:28,855 - INFO - <BrokerConnection node_id=0 host=192.168.245.7:9092 <connected> [IPv4 ('192.168.245.7', 9092)]>: Closing connection. 
+2024-11-29 18:56:28,855 - INFO - Setting up Flink environment...
+2024-11-29 18:56:29,879 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 18:56:29,938 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 18:57:33,259 - INFO - Starting Traffic Prediction Application...
+2024-11-29 18:57:33,260 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: connecting to localhost:9092 [('127.0.0.1', 9092) IPv4]
+2024-11-29 18:57:33,260 - INFO - Probing node bootstrap-0 broker version
+2024-11-29 18:57:33,260 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: Connection complete.
+2024-11-29 18:57:33,363 - INFO - Broker version identified as 2.5.0
+2024-11-29 18:57:33,363 - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2024-11-29 18:57:33,364 - INFO - Probing node bootstrap-0 broker version
+2024-11-29 18:57:33,466 - INFO - Broker version identified as 2.5.0
+2024-11-29 18:57:33,466 - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2024-11-29 18:57:33,469 - INFO - <BrokerConnection node_id=0 host=192.168.245.7:9092 <connecting> [IPv4 ('192.168.245.7', 9092)]>: connecting to 192.168.245.7:9092 [('192.168.245.7', 9092) IPv4]
+2024-11-29 18:57:33,469 - INFO - Probing node 0 broker version
+2024-11-29 18:57:33,469 - INFO - <BrokerConnection node_id=0 host=192.168.245.7:9092 <connecting> [IPv4 ('192.168.245.7', 9092)]>: Connection complete.
+2024-11-29 18:57:33,469 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv4 ('127.0.0.1', 9092)]>: Closing connection. 
+2024-11-29 18:57:33,572 - INFO - Broker version identified as 2.5.0
+2024-11-29 18:57:33,572 - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2024-11-29 18:57:33,574 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: connecting to localhost:9092 [('127.0.0.1', 9092) IPv4]
+2024-11-29 18:57:33,574 - INFO - Probing node bootstrap-0 broker version
+2024-11-29 18:57:33,574 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: Connection complete.
+2024-11-29 18:57:33,676 - INFO - Broker version identified as 2.5.0
+2024-11-29 18:57:33,676 - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2024-11-29 18:57:33,676 - WARNING - group_id is None: disabling auto-commit.
+2024-11-29 18:57:33,677 - INFO - Updating subscribed topics to: ('csv_topic',)
+2024-11-29 18:57:33,677 - INFO - Checking for messages in csv_topic...
+2024-11-29 18:57:33,677 - INFO - Updated partition assignment: [TopicPartition(topic='csv_topic', partition=0), TopicPartition(topic='csv_topic', partition=1), TopicPartition(topic='csv_topic', partition=2), TopicPartition(topic='csv_topic', partition=3)]
+2024-11-29 18:57:33,678 - INFO - <BrokerConnection node_id=0 host=192.168.245.7:9092 <connecting> [IPv4 ('192.168.245.7', 9092)]>: connecting to 192.168.245.7:9092 [('192.168.245.7', 9092) IPv4]
+2024-11-29 18:57:33,678 - INFO - <BrokerConnection node_id=0 host=192.168.245.7:9092 <connecting> [IPv4 ('192.168.245.7', 9092)]>: Connection complete.
+2024-11-29 18:57:33,678 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv4 ('127.0.0.1', 9092)]>: Closing connection. 
+2024-11-29 18:57:38,786 - INFO - <BrokerConnection node_id=0 host=192.168.245.7:9092 <connected> [IPv4 ('192.168.245.7', 9092)]>: Closing connection. 
+2024-11-29 18:57:38,786 - ERROR - Fetch to node 0 failed: Cancelled: <BrokerConnection node_id=0 host=192.168.245.7:9092 <connected> [IPv4 ('192.168.245.7', 9092)]>
+2024-11-29 18:57:38,786 - INFO - <BrokerConnection node_id=0 host=192.168.245.7:9092 <connected> [IPv4 ('192.168.245.7', 9092)]>: Closing connection. 
+2024-11-29 18:57:38,787 - INFO - Setting up Flink environment...
+2024-11-29 18:57:39,835 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 18:57:39,916 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 18:58:49,681 - INFO - Starting Traffic Prediction Application...
+2024-11-29 18:58:49,682 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: connecting to localhost:9092 [('127.0.0.1', 9092) IPv4]
+2024-11-29 18:58:49,683 - INFO - Probing node bootstrap-0 broker version
+2024-11-29 18:58:49,683 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: Connection complete.
+2024-11-29 18:58:49,786 - INFO - Broker version identified as 2.5.0
+2024-11-29 18:58:49,786 - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2024-11-29 18:58:49,786 - INFO - Probing node bootstrap-0 broker version
+2024-11-29 18:58:49,888 - INFO - Broker version identified as 2.5.0
+2024-11-29 18:58:49,888 - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2024-11-29 18:58:49,890 - INFO - <BrokerConnection node_id=0 host=192.168.245.7:9092 <connecting> [IPv4 ('192.168.245.7', 9092)]>: connecting to 192.168.245.7:9092 [('192.168.245.7', 9092) IPv4]
+2024-11-29 18:58:49,891 - INFO - Probing node 0 broker version
+2024-11-29 18:58:49,891 - INFO - <BrokerConnection node_id=0 host=192.168.245.7:9092 <connecting> [IPv4 ('192.168.245.7', 9092)]>: Connection complete.
+2024-11-29 18:58:49,891 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv4 ('127.0.0.1', 9092)]>: Closing connection. 
+2024-11-29 18:58:49,993 - INFO - Broker version identified as 2.5.0
+2024-11-29 18:58:49,993 - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2024-11-29 18:58:49,995 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: connecting to localhost:9092 [('127.0.0.1', 9092) IPv4]
+2024-11-29 18:58:49,995 - INFO - Probing node bootstrap-0 broker version
+2024-11-29 18:58:49,995 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: Connection complete.
+2024-11-29 18:58:50,098 - INFO - Broker version identified as 2.5.0
+2024-11-29 18:58:50,098 - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2024-11-29 18:58:50,098 - WARNING - group_id is None: disabling auto-commit.
+2024-11-29 18:58:50,099 - INFO - Updating subscribed topics to: ('csv_topic',)
+2024-11-29 18:58:50,099 - INFO - Checking for messages in csv_topic...
+2024-11-29 18:58:50,099 - INFO - Updated partition assignment: [TopicPartition(topic='csv_topic', partition=0), TopicPartition(topic='csv_topic', partition=1), TopicPartition(topic='csv_topic', partition=2), TopicPartition(topic='csv_topic', partition=3)]
+2024-11-29 18:58:50,100 - INFO - <BrokerConnection node_id=0 host=192.168.245.7:9092 <connecting> [IPv4 ('192.168.245.7', 9092)]>: connecting to 192.168.245.7:9092 [('192.168.245.7', 9092) IPv4]
+2024-11-29 18:58:50,100 - INFO - <BrokerConnection node_id=0 host=192.168.245.7:9092 <connecting> [IPv4 ('192.168.245.7', 9092)]>: Connection complete.
+2024-11-29 18:58:50,100 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv4 ('127.0.0.1', 9092)]>: Closing connection. 
+2024-11-29 18:58:52,672 - INFO - <BrokerConnection node_id=0 host=192.168.245.7:9092 <connected> [IPv4 ('192.168.245.7', 9092)]>: Closing connection. 
+2024-11-29 18:58:52,673 - INFO - <BrokerConnection node_id=0 host=192.168.245.7:9092 <connected> [IPv4 ('192.168.245.7', 9092)]>: Closing connection. 
+2024-11-29 18:58:52,673 - INFO - Setting up Flink environment...
+2024-11-29 18:58:53,687 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 18:58:53,750 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 18:59:30,712 - INFO - Starting Traffic Prediction Application...
+2024-11-29 18:59:30,713 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: connecting to localhost:9092 [('127.0.0.1', 9092) IPv4]
+2024-11-29 18:59:30,713 - INFO - Probing node bootstrap-0 broker version
+2024-11-29 18:59:30,713 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: Connection complete.
+2024-11-29 18:59:30,816 - INFO - Broker version identified as 2.5.0
+2024-11-29 18:59:30,816 - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2024-11-29 18:59:30,816 - INFO - Probing node bootstrap-0 broker version
+2024-11-29 18:59:30,918 - INFO - Broker version identified as 2.5.0
+2024-11-29 18:59:30,919 - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2024-11-29 18:59:30,922 - INFO - <BrokerConnection node_id=0 host=192.168.245.7:9092 <connecting> [IPv4 ('192.168.245.7', 9092)]>: connecting to 192.168.245.7:9092 [('192.168.245.7', 9092) IPv4]
+2024-11-29 18:59:30,922 - INFO - Probing node 0 broker version
+2024-11-29 18:59:30,922 - INFO - <BrokerConnection node_id=0 host=192.168.245.7:9092 <connecting> [IPv4 ('192.168.245.7', 9092)]>: Connection complete.
+2024-11-29 18:59:30,922 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv4 ('127.0.0.1', 9092)]>: Closing connection. 
+2024-11-29 18:59:31,024 - INFO - Broker version identified as 2.5.0
+2024-11-29 18:59:31,024 - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2024-11-29 18:59:31,026 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: connecting to localhost:9092 [('127.0.0.1', 9092) IPv4]
+2024-11-29 18:59:31,026 - INFO - Probing node bootstrap-0 broker version
+2024-11-29 18:59:31,027 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: Connection complete.
+2024-11-29 18:59:31,129 - INFO - Broker version identified as 2.5.0
+2024-11-29 18:59:31,129 - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2024-11-29 18:59:31,129 - WARNING - group_id is None: disabling auto-commit.
+2024-11-29 18:59:31,129 - INFO - Updating subscribed topics to: ('csv_topic',)
+2024-11-29 18:59:31,129 - INFO - Checking for messages in csv_topic...
+2024-11-29 18:59:31,130 - INFO - Updated partition assignment: [TopicPartition(topic='csv_topic', partition=0), TopicPartition(topic='csv_topic', partition=1), TopicPartition(topic='csv_topic', partition=2), TopicPartition(topic='csv_topic', partition=3)]
+2024-11-29 18:59:31,131 - INFO - <BrokerConnection node_id=0 host=192.168.245.7:9092 <connecting> [IPv4 ('192.168.245.7', 9092)]>: connecting to 192.168.245.7:9092 [('192.168.245.7', 9092) IPv4]
+2024-11-29 18:59:31,131 - INFO - <BrokerConnection node_id=0 host=192.168.245.7:9092 <connecting> [IPv4 ('192.168.245.7', 9092)]>: Connection complete.
+2024-11-29 18:59:31,131 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv4 ('127.0.0.1', 9092)]>: Closing connection. 
+2024-11-29 18:59:31,236 - INFO - <BrokerConnection node_id=0 host=192.168.245.7:9092 <connected> [IPv4 ('192.168.245.7', 9092)]>: Closing connection. 
+2024-11-29 18:59:31,236 - INFO - <BrokerConnection node_id=0 host=192.168.245.7:9092 <connected> [IPv4 ('192.168.245.7', 9092)]>: Closing connection. 
+2024-11-29 18:59:31,236 - INFO - Setting up Flink environment...
+2024-11-29 18:59:32,256 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 18:59:32,315 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 19:06:05,800 - INFO - Starting Traffic Prediction Application...
+2024-11-29 19:06:05,800 - INFO - Setting up Flink environment...
+2024-11-29 19:06:06,919 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 19:06:06,979 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 19:08:18,516 - INFO - Starting Traffic Prediction Application...
+2024-11-29 19:08:18,516 - INFO - Setting up Flink environment...
+2024-11-29 19:08:19,540 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 19:08:19,600 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 19:11:28,428 - INFO - Starting Traffic Prediction Application...
+2024-11-29 19:11:28,428 - INFO - Setting up Flink environment...
+2024-11-29 19:11:29,538 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 19:11:29,600 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 21:38:18,294 - INFO - Starting Traffic Prediction Application...
+2024-11-29 21:38:18,294 - INFO - Setting up Flink environment...
+2024-11-29 21:38:19,426 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 21:38:19,493 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 21:44:24,649 - INFO - Starting Traffic Prediction Application...
+2024-11-29 21:44:24,649 - INFO - Setting up Flink environment...
+2024-11-29 21:44:25,890 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 21:44:25,988 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 21:49:28,142 - INFO - Starting Traffic Prediction Application...
+2024-11-29 21:49:28,142 - INFO - Setting up Flink environment...
+2024-11-29 21:49:29,459 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 21:49:29,542 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 21:51:41,581 - INFO - Starting Traffic Prediction Application...
+2024-11-29 21:51:41,581 - INFO - Setting up Flink environment...
+2024-11-29 21:51:42,600 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 21:51:42,664 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 21:56:33,661 - INFO - Starting Traffic Prediction Application...
+2024-11-29 21:56:33,661 - INFO - Setting up Flink environment...
+2024-11-29 21:56:34,682 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 21:56:34,747 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 21:57:58,133 - INFO - Starting Traffic Prediction Application...
+2024-11-29 21:57:58,133 - INFO - Setting up Flink environment...
+2024-11-29 21:57:59,153 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 21:57:59,217 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 22:01:05,131 - INFO - Starting Traffic Prediction Application...
+2024-11-29 22:01:05,131 - INFO - Setting up Flink environment...
+2024-11-29 22:01:06,248 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 22:01:06,310 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 22:06:06,441 - INFO - Starting Traffic Prediction Application...
+2024-11-29 22:06:06,441 - INFO - Setting up Flink environment...
+2024-11-29 22:06:07,561 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 22:06:07,624 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 22:06:53,626 - INFO - Starting Traffic Prediction Application...
+2024-11-29 22:06:53,626 - INFO - Setting up Flink environment...
+2024-11-29 22:06:54,649 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 22:06:54,708 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 22:06:54,880 - ERROR - Error in execution: An error occurred while calling o16.getStreamGraph.
+: java.lang.IllegalStateException: No operators defined in streaming topology. Cannot execute.
+	at org.apache.flink.streaming.api.environment.StreamExecutionEnvironment.getStreamGraphGenerator(StreamExecutionEnvironment.java:2322)
+	at org.apache.flink.streaming.api.environment.StreamExecutionEnvironment.getStreamGraph(StreamExecutionEnvironment.java:2289)
+	at org.apache.flink.streaming.api.environment.StreamExecutionEnvironment.getStreamGraph(StreamExecutionEnvironment.java:2280)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.apache.flink.api.python.shaded.py4j.reflection.MethodInvoker.invoke(MethodInvoker.java:244)
+	at org.apache.flink.api.python.shaded.py4j.reflection.ReflectionEngine.invoke(ReflectionEngine.java:374)
+	at org.apache.flink.api.python.shaded.py4j.Gateway.invoke(Gateway.java:282)
+	at org.apache.flink.api.python.shaded.py4j.commands.AbstractCommand.invokeMethod(AbstractCommand.java:132)
+	at org.apache.flink.api.python.shaded.py4j.commands.CallCommand.execute(CallCommand.java:79)
+	at org.apache.flink.api.python.shaded.py4j.GatewayConnection.run(GatewayConnection.java:238)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+Traceback (most recent call last):
+  File "/home/avanish/traffic_predictor/src/traffic_predictor.py", line 300, in main
+    env.execute("Traffic Speed Prediction Job")
+  File "/home/avanish/anaconda3/envs/traffic_pred/lib/python3.10/site-packages/pyflink/datastream/stream_execution_environment.py", line 763, in execute
+    j_stream_graph = self._generate_stream_graph(clear_transformations=True, job_name=job_name)
+  File "/home/avanish/anaconda3/envs/traffic_pred/lib/python3.10/site-packages/pyflink/datastream/stream_execution_environment.py", line 1012, in _generate_stream_graph
+    j_stream_graph = self._j_stream_execution_environment.getStreamGraph(clear_transformations)
+  File "/home/avanish/anaconda3/envs/traffic_pred/lib/python3.10/site-packages/py4j/java_gateway.py", line 1322, in __call__
+    return_value = get_return_value(
+  File "/home/avanish/anaconda3/envs/traffic_pred/lib/python3.10/site-packages/pyflink/util/exceptions.py", line 146, in deco
+    return f(*a, **kw)
+  File "/home/avanish/anaconda3/envs/traffic_pred/lib/python3.10/site-packages/py4j/protocol.py", line 326, in get_return_value
+    raise Py4JJavaError(
+py4j.protocol.Py4JJavaError: An error occurred while calling o16.getStreamGraph.
+: java.lang.IllegalStateException: No operators defined in streaming topology. Cannot execute.
+	at org.apache.flink.streaming.api.environment.StreamExecutionEnvironment.getStreamGraphGenerator(StreamExecutionEnvironment.java:2322)
+	at org.apache.flink.streaming.api.environment.StreamExecutionEnvironment.getStreamGraph(StreamExecutionEnvironment.java:2289)
+	at org.apache.flink.streaming.api.environment.StreamExecutionEnvironment.getStreamGraph(StreamExecutionEnvironment.java:2280)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.apache.flink.api.python.shaded.py4j.reflection.MethodInvoker.invoke(MethodInvoker.java:244)
+	at org.apache.flink.api.python.shaded.py4j.reflection.ReflectionEngine.invoke(ReflectionEngine.java:374)
+	at org.apache.flink.api.python.shaded.py4j.Gateway.invoke(Gateway.java:282)
+	at org.apache.flink.api.python.shaded.py4j.commands.AbstractCommand.invokeMethod(AbstractCommand.java:132)
+	at org.apache.flink.api.python.shaded.py4j.commands.CallCommand.execute(CallCommand.java:79)
+	at org.apache.flink.api.python.shaded.py4j.GatewayConnection.run(GatewayConnection.java:238)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+2024-11-29 22:07:16,308 - INFO - Starting Traffic Prediction Application...
+2024-11-29 22:07:16,308 - INFO - Setting up Flink environment...
+2024-11-29 22:07:17,325 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 22:07:17,386 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 22:07:17,556 - ERROR - Error in execution: An error occurred while calling o16.getStreamGraph.
+: java.lang.IllegalStateException: No operators defined in streaming topology. Cannot execute.
+	at org.apache.flink.streaming.api.environment.StreamExecutionEnvironment.getStreamGraphGenerator(StreamExecutionEnvironment.java:2322)
+	at org.apache.flink.streaming.api.environment.StreamExecutionEnvironment.getStreamGraph(StreamExecutionEnvironment.java:2289)
+	at org.apache.flink.streaming.api.environment.StreamExecutionEnvironment.getStreamGraph(StreamExecutionEnvironment.java:2280)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.apache.flink.api.python.shaded.py4j.reflection.MethodInvoker.invoke(MethodInvoker.java:244)
+	at org.apache.flink.api.python.shaded.py4j.reflection.ReflectionEngine.invoke(ReflectionEngine.java:374)
+	at org.apache.flink.api.python.shaded.py4j.Gateway.invoke(Gateway.java:282)
+	at org.apache.flink.api.python.shaded.py4j.commands.AbstractCommand.invokeMethod(AbstractCommand.java:132)
+	at org.apache.flink.api.python.shaded.py4j.commands.CallCommand.execute(CallCommand.java:79)
+	at org.apache.flink.api.python.shaded.py4j.GatewayConnection.run(GatewayConnection.java:238)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+Traceback (most recent call last):
+  File "/home/avanish/traffic_predictor/src/traffic_predictor.py", line 300, in main
+    env.execute("Traffic Speed Prediction Job")
+  File "/home/avanish/anaconda3/envs/traffic_pred/lib/python3.10/site-packages/pyflink/datastream/stream_execution_environment.py", line 763, in execute
+    j_stream_graph = self._generate_stream_graph(clear_transformations=True, job_name=job_name)
+  File "/home/avanish/anaconda3/envs/traffic_pred/lib/python3.10/site-packages/pyflink/datastream/stream_execution_environment.py", line 1012, in _generate_stream_graph
+    j_stream_graph = self._j_stream_execution_environment.getStreamGraph(clear_transformations)
+  File "/home/avanish/anaconda3/envs/traffic_pred/lib/python3.10/site-packages/py4j/java_gateway.py", line 1322, in __call__
+    return_value = get_return_value(
+  File "/home/avanish/anaconda3/envs/traffic_pred/lib/python3.10/site-packages/pyflink/util/exceptions.py", line 146, in deco
+    return f(*a, **kw)
+  File "/home/avanish/anaconda3/envs/traffic_pred/lib/python3.10/site-packages/py4j/protocol.py", line 326, in get_return_value
+    raise Py4JJavaError(
+py4j.protocol.Py4JJavaError: An error occurred while calling o16.getStreamGraph.
+: java.lang.IllegalStateException: No operators defined in streaming topology. Cannot execute.
+	at org.apache.flink.streaming.api.environment.StreamExecutionEnvironment.getStreamGraphGenerator(StreamExecutionEnvironment.java:2322)
+	at org.apache.flink.streaming.api.environment.StreamExecutionEnvironment.getStreamGraph(StreamExecutionEnvironment.java:2289)
+	at org.apache.flink.streaming.api.environment.StreamExecutionEnvironment.getStreamGraph(StreamExecutionEnvironment.java:2280)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.apache.flink.api.python.shaded.py4j.reflection.MethodInvoker.invoke(MethodInvoker.java:244)
+	at org.apache.flink.api.python.shaded.py4j.reflection.ReflectionEngine.invoke(ReflectionEngine.java:374)
+	at org.apache.flink.api.python.shaded.py4j.Gateway.invoke(Gateway.java:282)
+	at org.apache.flink.api.python.shaded.py4j.commands.AbstractCommand.invokeMethod(AbstractCommand.java:132)
+	at org.apache.flink.api.python.shaded.py4j.commands.CallCommand.execute(CallCommand.java:79)
+	at org.apache.flink.api.python.shaded.py4j.GatewayConnection.run(GatewayConnection.java:238)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+2024-11-29 22:08:31,497 - INFO - Starting Traffic Prediction Application...
+2024-11-29 22:08:31,497 - INFO - Setting up Flink environment...
+2024-11-29 22:08:32,516 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 22:08:32,579 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 22:09:12,017 - INFO - Starting Traffic Prediction Application...
+2024-11-29 22:09:12,017 - INFO - Setting up Flink environment...
+2024-11-29 22:09:13,040 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 22:09:13,104 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 22:10:36,902 - INFO - Starting Traffic Prediction Application...
+2024-11-29 22:10:36,902 - INFO - Setting up Flink environment...
+2024-11-29 22:10:37,925 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 22:10:37,983 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 22:13:07,820 - INFO - Starting Traffic Prediction Application...
+2024-11-29 22:13:07,820 - INFO - Setting up Flink environment...
+2024-11-29 22:13:09,146 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 22:13:09,229 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 22:14:45,217 - INFO - Starting Traffic Prediction Application...
+2024-11-29 22:14:45,225 - INFO - Setting up Flink environment...
+2024-11-29 22:14:46,364 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 22:14:46,428 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 22:16:27,058 - INFO - Starting Traffic Prediction Application...
+2024-11-29 22:16:27,058 - INFO - Setting up Flink environment...
+2024-11-29 22:16:28,173 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 22:16:28,234 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 22:17:26,765 - INFO - Starting Traffic Prediction Application...
+2024-11-29 22:17:26,765 - INFO - Setting up Flink environment...
+2024-11-29 22:17:27,779 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 22:17:27,839 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 22:19:27,549 - INFO - Starting Traffic Prediction Application...
+2024-11-29 22:19:27,549 - INFO - Setting up Flink environment...
+2024-11-29 22:19:28,603 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 22:19:28,664 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 22:21:14,991 - INFO - Starting Traffic Prediction Application...
+2024-11-29 22:21:14,991 - INFO - Setting up Flink environment...
+2024-11-29 22:21:16,168 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 22:21:16,242 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 22:22:51,811 - INFO - Starting Traffic Prediction Application...
+2024-11-29 22:22:51,811 - INFO - Setting up Flink environment...
+2024-11-29 22:22:52,915 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 22:22:52,975 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 22:26:06,240 - INFO - Starting Traffic Prediction Application...
+2024-11-29 22:26:06,240 - INFO - Setting up Flink environment...
+2024-11-29 22:26:07,358 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 22:26:07,419 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 22:27:24,174 - INFO - Starting Traffic Prediction Application...
+2024-11-29 22:27:24,174 - INFO - Setting up Flink environment...
+2024-11-29 22:27:25,392 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 22:27:25,476 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 22:28:32,549 - INFO - Starting Traffic Prediction Application...
+2024-11-29 22:28:32,550 - INFO - Setting up Flink environment...
+2024-11-29 22:28:33,586 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 22:28:33,645 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 22:29:21,704 - INFO - Starting Traffic Prediction Application...
+2024-11-29 22:29:21,704 - INFO - Setting up Flink environment...
+2024-11-29 22:29:22,721 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 22:29:22,783 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 22:32:24,900 - INFO - Starting Traffic Prediction Application...
+2024-11-29 22:32:24,901 - INFO - Setting up Flink environment...
+2024-11-29 22:32:25,939 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 22:32:26,001 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 23:27:32,931 - INFO - Starting Traffic Prediction Application...
+2024-11-29 23:27:32,931 - INFO - Setting up Flink environment...
+2024-11-29 23:27:33,960 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 23:27:34,018 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 23:28:00,615 - INFO - Starting Traffic Prediction Application...
+2024-11-29 23:28:00,615 - INFO - Setting up Flink environment...
+2024-11-29 23:28:01,834 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 23:28:01,910 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 23:37:01,724 - INFO - Starting Traffic Prediction Application...
+2024-11-29 23:37:01,724 - INFO - Setting up Flink environment...
+2024-11-29 23:37:03,028 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 23:37:03,111 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 23:37:03,449 - ERROR - Error in execution: BaseObserver.schedule() got an unexpected keyword argument 'patterns'
+Traceback (most recent call last):
+  File "/home/avanish/traffic_predictor/src/traffic_predictor.py", line 351, in main
+    event_handler.run()
+  File "/home/avanish/traffic_predictor/src/traffic_predictor.py", line 88, in run
+    observer.schedule(event_handler, directory, recursive=False, patterns=patterns)
+TypeError: BaseObserver.schedule() got an unexpected keyword argument 'patterns'
+2024-11-29 23:40:30,789 - INFO - Starting Traffic Prediction Application...
+2024-11-29 23:40:30,789 - INFO - Setting up Flink environment...
+2024-11-29 23:40:31,809 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 23:40:31,866 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-29 23:53:26,028 - INFO - Starting Traffic Prediction Application...
+2024-11-29 23:53:26,028 - INFO - Setting up Flink environment...
+2024-11-29 23:53:27,253 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-29 23:53:27,341 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-30 00:26:49,994 - INFO - Starting Traffic Prediction Application...
+2024-11-30 00:26:49,995 - INFO - Setting up Flink environment...
+2024-11-30 00:26:51,211 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-30 00:26:51,301 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-30 00:36:49,682 - INFO - Starting Traffic Prediction Application...
+2024-11-30 00:36:49,682 - INFO - Setting up Flink environment...
+2024-11-30 00:36:50,915 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-30 00:36:51,004 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-30 00:46:07,362 - INFO - Starting Traffic Prediction Application...
+2024-11-30 00:46:07,363 - INFO - Setting up Flink environment...
+2024-11-30 00:46:08,590 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-30 00:46:08,674 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-30 00:47:41,161 - INFO - Starting Traffic Prediction Application...
+2024-11-30 00:47:41,161 - INFO - Setting up Flink environment...
+2024-11-30 00:47:42,381 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-30 00:47:42,466 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-30 00:58:36,481 - INFO - Starting Traffic Prediction Application...
+2024-11-30 00:58:36,481 - INFO - Setting up Flink environment...
+2024-11-30 00:58:37,711 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-30 00:58:37,800 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-30 01:07:23,828 - INFO - Starting Traffic Prediction Application...
+2024-11-30 01:07:23,828 - INFO - Setting up Flink environment...
+2024-11-30 01:07:25,188 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-30 01:07:25,267 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-30 01:19:18,222 - INFO - Starting Traffic Prediction Application...
+2024-11-30 01:19:18,222 - INFO - Setting up Flink environment...
+2024-11-30 01:19:19,461 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-30 01:19:19,553 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-30 01:20:23,444 - INFO - Starting Traffic Prediction Application...
+2024-11-30 01:20:23,444 - INFO - Setting up Flink environment...
+2024-11-30 01:20:24,680 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-30 01:20:24,767 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-30 01:24:25,919 - INFO - Starting Traffic Prediction Application...
+2024-11-30 01:24:25,919 - INFO - Setting up Flink environment...
+2024-11-30 01:24:27,277 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-30 01:24:27,369 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-30 02:38:52,478 - INFO - Starting Traffic Prediction Application...
+2024-11-30 02:38:52,478 - INFO - Setting up Flink environment...
+2024-11-30 02:38:53,701 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-30 02:38:53,787 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-30 02:40:23,872 - INFO - Starting Traffic Prediction Application...
+2024-11-30 02:40:23,872 - INFO - Setting up Flink environment...
+2024-11-30 02:40:25,090 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-30 02:40:25,180 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-30 02:44:07,069 - INFO - Starting Traffic Prediction Application...
+2024-11-30 02:44:07,069 - INFO - Setting up Flink environment...
+2024-11-30 02:44:08,308 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-30 02:44:08,398 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-30 02:46:07,463 - INFO - Starting Traffic Prediction Application...
+2024-11-30 02:46:07,463 - INFO - Setting up Flink environment...
+2024-11-30 02:46:08,690 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-30 02:46:08,779 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-30 02:56:00,630 - INFO - Starting Traffic Prediction Application...
+2024-11-30 02:56:00,631 - INFO - Setting up Flink environment...
+2024-11-30 02:56:01,850 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-30 02:56:01,936 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-30 03:01:19,392 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-30 03:01:19,481 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-30 03:01:48,379 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-30 03:01:48,463 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-30 03:10:10,539 - INFO - Starting Traffic Prediction Application...
+2024-11-30 03:10:10,540 - INFO - Setting up Flink environment...
+2024-11-30 03:10:12,035 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-30 03:10:12,145 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-30 03:13:56,629 - INFO - Starting Traffic Prediction Application...
+2024-11-30 03:13:56,630 - INFO - Setting up Flink environment...
+2024-11-30 03:13:57,852 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-30 03:13:57,939 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-30 03:17:06,130 - INFO - Starting Traffic Prediction Application...
+2024-11-30 03:17:06,130 - INFO - Setting up Flink environment...
+2024-11-30 03:17:07,351 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-30 03:17:07,434 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-30 03:22:11,132 - INFO - Starting Traffic Prediction Application...
+2024-11-30 03:22:11,133 - INFO - Setting up Flink environment...
+2024-11-30 03:22:12,362 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-30 03:22:12,459 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-30 04:54:45,950 - INFO - Starting Traffic Prediction Application...
+2024-11-30 04:54:45,951 - INFO - Setting up Flink environment...
+2024-11-30 04:54:47,164 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-30 04:54:47,245 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-30 05:12:25,745 - INFO - Starting Traffic Prediction Application...
+2024-11-30 05:12:25,745 - INFO - Setting up Flink environment...
+2024-11-30 05:12:26,966 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-30 05:12:27,049 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-30 05:26:42,406 - INFO - Starting Traffic Prediction Application...
+2024-11-30 05:26:42,406 - INFO - Setting up Flink environment...
+2024-11-30 05:26:43,916 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-30 05:26:44,002 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-30 06:15:47,277 - INFO - Starting Traffic Prediction Application...
+2024-11-30 06:15:47,278 - INFO - Setting up Flink environment...
+2024-11-30 06:15:48,600 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-30 06:15:48,688 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-30 07:44:22,399 - INFO - Starting Traffic Prediction Application...
+2024-11-30 07:44:22,399 - INFO - Setting up Flink environment...
+2024-11-30 07:44:23,619 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-30 07:44:23,707 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-30 07:53:00,289 - INFO - Starting Traffic Prediction Application...
+2024-11-30 07:53:00,290 - INFO - Setting up Flink environment...
+2024-11-30 07:53:01,536 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-30 07:53:01,620 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-30 07:55:59,147 - INFO - Starting Traffic Prediction Application...
+2024-11-30 07:55:59,147 - INFO - Setting up Flink environment...
+2024-11-30 07:56:00,365 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-30 07:56:00,451 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-30 07:56:32,946 - INFO - Starting Traffic Prediction Application...
+2024-11-30 07:56:32,947 - INFO - Setting up Flink environment...
+2024-11-30 07:56:34,163 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-30 07:56:34,248 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-30 07:57:46,562 - INFO - Starting Traffic Prediction Application...
+2024-11-30 07:57:46,562 - INFO - Setting up Flink environment...
+2024-11-30 07:57:47,779 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-30 07:57:47,864 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-30 08:16:05,013 - INFO - Starting Traffic Prediction Application...
+2024-11-30 08:16:05,013 - INFO - Setting up Flink environment...
+2024-11-30 08:16:06,233 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-30 08:16:06,320 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-30 08:21:56,093 - INFO - Starting Traffic Prediction Application...
+2024-11-30 08:21:56,093 - INFO - Setting up Flink environment...
+2024-11-30 08:21:57,338 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-30 08:21:57,426 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-30 11:42:21,400 - INFO - Starting Traffic Prediction Application...
+2024-11-30 11:42:21,401 - INFO - Setting up Flink environment...
+2024-11-30 11:42:22,622 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-30 11:42:22,715 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+2024-11-30 11:50:45,042 - INFO - Starting Traffic Prediction Application...
+2024-11-30 11:50:45,042 - INFO - Setting up Flink environment...
+2024-11-30 11:50:46,302 - INFO - Using Any for unsupported type: typing.Sequence[~T]
+2024-11-30 11:50:46,388 - INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.

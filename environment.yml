@@ -1,0 +1,14 @@
+name: traffic_pred
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - protobuf<4.0.0  # Add this line
+  - pip:
+    - tensorflow==2.13.0
+    - apache-flink==1.17.2
+    - apache-flink-libraries==1.17.2
+    - python-dotenv>=0.19.0

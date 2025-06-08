@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message TrafficPredictionData {
+  string sensor_id = 1;
+  double current_speed = 2;
+  double predicted_speed = 3;
+}
